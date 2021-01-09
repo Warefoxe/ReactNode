@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://warefoxe123:warefoxe123@cluster0.slfsk.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
